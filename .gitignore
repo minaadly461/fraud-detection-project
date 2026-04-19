@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore the environment
+fraud_env/
+
+# Ignore all data files
+data/
