@@ -1,0 +1,8 @@
+# Data Manipulation & Cleaning
+pandas
+numpy
+
+# Exploratory Data Analysis (EDA)
+matplotlib
+seaborn
+
