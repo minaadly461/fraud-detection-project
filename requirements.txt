@@ -9,3 +9,7 @@ seaborn
 
 # Machine Learning
 scikit-learn
+joblib
+
+# for deployment
+streamlit
